@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="642px" height="426px" viewBox="0 0 642 426" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>palette</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="phppr.org" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="palette">
+            <text id="Paleta-de-cores" font-family="Roboto-Regular, Roboto" font-size="18" font-weight="normal" fill="#1B2500">
+                <tspan x="8" y="30">Paleta de cores</tspan>
+            </text>
+            <g transform="translate(0.000000, 53.000000)">
+                <g>
+                    <rect id="blue-dark" fill="#008D43" fill-rule="nonzero" x="0" y="0" width="128.5" height="305.417607"></rect>
+                    <rect id="blue-light" fill="#5CB483" fill-rule="nonzero" x="127.5" y="0" width="128.5" height="305.417607"></rect>
+                    <rect id="blue" fill="#8080FF" fill-rule="nonzero" x="256" y="0" width="128.5" height="305.417607"></rect>
+                    <rect id="dark" fill="#0047A9" fill-rule="nonzero" x="384.5" y="0" width="128.5" height="305.417607"></rect>
+                    <rect id="dark-copy" fill="#1B2500" fill-rule="nonzero" x="513" y="0" width="128.5" height="305.417607"></rect>
+                    <text id="#008D43" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#929DAA">
+                        <tspan x="27.4276268" y="333">#008D43</tspan>
+                    </text>
+                    <text id="Green" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#929DAA">
+                        <tspan x="40.2728417" y="357">Green</tspan>
+                    </text>
+                    <text id="#8080FF" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#929DAA">
+                        <tspan x="283.880756" y="333">#8080FF</tspan>
+                    </text>
+                    <text id="Blue-light" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#929DAA">
+                        <tspan x="281.49892" y="357">Blue light</tspan>
+                    </text>
+                    <text id="#5CB483" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#929DAA">
+                        <tspan x="154.241919" y="333">#5CB483</tspan>
+                    </text>
+                    <text id="Green-light" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#929DAA">
+                        <tspan x="143.868603" y="357">Green light</tspan>
+                    </text>
+                    <text id="#0047A9" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#929DAA">
+                        <tspan x="411.655005" y="333">#0047A9</tspan>
+                    </text>
+                    <text id="Blue" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#929DAA">
+                        <tspan x="430.859106" y="357">Blue</tspan>
+                    </text>
+                    <text id="#1B2500" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#929DAA">
+                        <tspan x="539.967016" y="333">#1B2500</tspan>
+                    </text>
+                    <text id="Darken" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#929DAA">
+                        <tspan x="548.219946" y="357">Darken</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
